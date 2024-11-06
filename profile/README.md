@@ -9,3 +9,6 @@
 - Admin backend: ``8888``
 - Voter frontend: ``3001``
 - Voter backend: ``3002``
+
+## Commit convention
+https://www.conventionalcommits.org/en/v1.0.0/
